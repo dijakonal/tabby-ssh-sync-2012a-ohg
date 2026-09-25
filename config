@@ -1,0 +1,11 @@
+Host dijakonal
+    HostName 10.80.210.197
+    User dij
+    ForwardX11 yes
+    ForwardX11Trusted yes
+
+Host Theo
+    HostName 10.80.1.124
+    User user
+    ForwardX11 yes
+    ForwardX11Trusted yes
